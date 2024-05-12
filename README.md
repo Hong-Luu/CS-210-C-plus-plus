@@ -3,7 +3,7 @@
 ## Module Eight Journal 
 ---
 
-![Screenshot]([path/to/screenshot.png](https://github.com/Hong-Luu/CS-210-C-plus-plus/blob/main/Menu%20screenshot%201.png))
+![Screenshot](https://github.com/Hong-Luu/CS-210-C-plus-plus/blob/main/Menu%20screenshot%201.png)
 
 
 **Summarize the project and what problem it was solving**
