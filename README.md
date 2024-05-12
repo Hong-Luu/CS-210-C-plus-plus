@@ -2,6 +2,10 @@
 ---
 ## Module Eight Journal 
 ---
+
+![Screenshot](https://github.com/Hong-Luu/CS-210-C-plus-plus/blob/main/Screenshot%202024-05-12%20143830.png)
+
+
 **Summarize the project and what problem it was solving**
 
 The project is solving the problem of finding the frequency of words in a given input file and displaying it in different forms to the user.
