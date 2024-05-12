@@ -3,7 +3,7 @@
 ## Module Eight Journal 
 ---
 
-![Screenshot](https://github.com/Hong-Luu/CS-210-C-plus-plus/blob/main/Screenshot%202024-05-12%20143830.png)
+![Screenshot](https://github.com/Hong-Luu/CS-210-C-plus-plus/blob/main/Menu screenshot 1.png)
 
 
 **Summarize the project and what problem it was solving**
